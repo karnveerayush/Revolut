@@ -3,7 +3,7 @@ Revolut Assignment
 
 This has one API
 
-http://localhost:8080/RevolutMoneyTransfer/Accounts/Transfer/{Source Account}/{Target Account}/{Transfer Amount}
+http://localhost:8080/RevolutMoneyTransfer/Accounts/Transfer/{SourceAccount}/{TargetAccount}/{TransferAmount}
 
 Example:
 
